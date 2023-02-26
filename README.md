@@ -436,6 +436,21 @@ export class TopBarComponent {
 ]
 
 /* End of code here. There are other files as well. Will include link to my stackblitz page in self-reflection portion on Blackboard. */
+  
+/* References down below */
+//Ezekeal. (2020, February 11). Stackblitz generator breaks getting started tutorial. #35324. GitHub. Retrieved February 26, 2023, from https://github.com/angular/angular/issues/35324
+//This is the site where I realized I wasn't the only one having issues originally in generating the product-alerts files when writing the command in command prompt //based on the Angular Get-Started tutorial.
+//Google. (n.d.). Adding navigation. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-routing
+//Google. (n.d.). Deploying an application. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-deployment
+//Was able to complete previous steps but still investigating on running this application locally due to unsureness of how to downgrade node so it works with the //current angular version. Will investigate and figure out for the last two assignments in unit 4.
+//Google. (n.d.). Getting started with Angular. Angular. Retrieved February 26, 2023, from https://angular.io/start
+//Google. (n.d.). Managing data. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-data
+//Google. (n.d.). Using forms for user input. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-forms
+//Sear, E. (2023, February 23). [Instant messenger interview by A. Cayer].
+//Emailed with this classmate in order to get advice on some of the unit 4 material due to having questions regarding these assignments. Asked for clarification on //inserting the product-alerts folder for assignment 4.1 and files and said I needed to do it manually. I was able to make further steps from there with her advice on //how to tackle these issues.
+//Typescript.tv. (n.d.). TS2322. Retrieved February 26, 2023, from https://typescript.tv/errors/#TS2322
+//This is the place where I uncovered the TS2322, which was happening when first going through Managing data section. Was able to figure out part I missed putting in //and this resolved the error.
+
 
 
 
