@@ -435,22 +435,24 @@ export class TopBarComponent {
   }
 ]
 
-/* End of code here. There are other files as well. Will include link to my stackblitz page in self-reflection portion on Blackboard. */
+/* End of code here. There are other files as well. Will include link to my Stackblitz page in self-reflection portion on Blackboard. */
   
 /* References down below */
-//Ezekeal. (2020, February 11). Stackblitz generator breaks getting started tutorial. #35324. GitHub. Retrieved February 26, 2023, from https://github.com/angular/angular/issues/35324
-//This is the site where I realized I wasn't the only one having issues originally in generating the product-alerts files when writing the command in command prompt //based on the Angular Get-Started tutorial.
+// @angular/core/package.json version 15.2.0. (n.d.). UNPKG. Retrieved February 26, 2023, from https://unpkg.com/browse/@angular/core@15.2.0/package.json
+// Utilized this site to determine which version of node I had to downgrade and switch to when working with Angular.
+// Ezekeal. (2020, February 11). Stackblitz generator breaks getting started tutorial. #35324. GitHub. Retrieved February 26, 2023, from https://github.com/angular/angular/issues/35324
+// This is the site where I realized I wasn't the only one having issues originally in generating the product-alerts files when writing the command in command prompt // based on the Angular Get-Started tutorial.
 //Google. (n.d.). Adding navigation. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-routing
 //Google. (n.d.). Deploying an application. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-deployment
 //Was able to complete previous steps but still investigating on running this application locally due to unsureness of how to downgrade node so it works with the //current angular version. Will investigate and figure out for the last two assignments in unit 4.
 //Google. (n.d.). Getting started with Angular. Angular. Retrieved February 26, 2023, from https://angular.io/start
 //Google. (n.d.). Managing data. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-data
 //Google. (n.d.). Using forms for user input. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-forms
+//LayZeeDK. (n.d.). Angular-cli-node-js-typescript-rxjs-compatibility-matrix.csv web page. GitHub Gist. Retrieved February 26, 2023, from https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3
+//Referred to this site as well to determine which version of node I had to downgrade and use when it came to working with Angular physically on machine since version //19.4.0 of Node isn't compatible with the most current Angular version.
+//Madhushani, N. (2023, January 9). How to upgrade or downgrade the node version? Medium. Retrieved February 26, 2023, from https://medium.com/linkit-intecs/how-to-update-node-js-and-npm-42b8bf3cabe6
+//Referred to this site and its attached link to install node version manager (NVM) to help with downgrading the node and npm versions so I would be able to run angular locally on my Windows computer.
 //Sear, E. (2023, February 23). [Instant messenger interview by A. Cayer].
 //Emailed with this classmate in order to get advice on some of the unit 4 material due to having questions regarding these assignments. Asked for clarification on //inserting the product-alerts folder for assignment 4.1 and files and said I needed to do it manually. I was able to make further steps from there with her advice on //how to tackle these issues.
 //Typescript.tv. (n.d.). TS2322. Retrieved February 26, 2023, from https://typescript.tv/errors/#TS2322
-//This is the place where I uncovered the TS2322, which was happening when first going through Managing data section. Was able to figure out part I missed putting in //and this resolved the error.
-
-
-
-
+//This is the place where I uncovered the TS2322, which was happening when first going through Managing data section. Was able to figure out part I missed putting in and this resolved the error.
