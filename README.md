@@ -444,7 +444,6 @@ export class TopBarComponent {
 // This is the site where I realized I wasn't the only one having issues originally in generating the product-alerts files when writing the command in command prompt // based on the Angular Get-Started tutorial.
 //Google. (n.d.). Adding navigation. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-routing
 //Google. (n.d.). Deploying an application. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-deployment
-//Was able to complete previous steps but still investigating on running this application locally due to unsureness of how to downgrade node so it works with the //current angular version. Will investigate and figure out for the last two assignments in unit 4.
 //Google. (n.d.). Getting started with Angular. Angular. Retrieved February 26, 2023, from https://angular.io/start
 //Google. (n.d.). Managing data. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-data
 //Google. (n.d.). Using forms for user input. Angular. Retrieved February 26, 2023, from https://angular.io/start/start-forms
