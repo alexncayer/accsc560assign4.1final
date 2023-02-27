@@ -3,7 +3,7 @@
 /* Purpose of the code: To create a beginning application with Angular on Stackblitz. */
 /* Note: Make sure to view in raw mode for under the readme file to see correct spacing of code. */
 
-/* product-list.component.css down below, which is empty except for the Google comment, which I will exclude here in GitHub just in case. */
+/* product-list.component.css down below, which is empty except for the Google comment. See references to see me crediting Google at the bottom of the GitHub page. */
 
 /* product-list.component.html down below */
 
